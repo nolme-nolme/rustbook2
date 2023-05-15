@@ -37,6 +37,6 @@
   * [가시성 (Visibility)](module/visibility.md)
   * [경로 (path)](module/path.md)
   * [파일 시스템 계층 (Filesystem Hierarchy)](module/filesystem-hierarchy.md)
-* [연습문제 (exercise day 2)](exercise-day-2/README.md)
+* [exercise day 2](exercise-day-2/README.md)
   * [룬 알고리즘 (Luhn Algorithm)](exercise-day-2/luhn-algorithm.md)
 * [깃북 사용법 (gitbook)](gitbook.md)

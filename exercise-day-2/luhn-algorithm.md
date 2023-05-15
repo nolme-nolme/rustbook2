@@ -58,3 +58,7 @@ fn test_invalid_cc_number() {
 #[allow(dead_code)]
 fn main() {}
 ```
+
+{% hint style="info" %}
+깃북에서 병합이 잘 안 될 때가 있어 보입니다.&#x20;
+{% endhint %}
