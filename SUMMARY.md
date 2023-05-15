@@ -29,5 +29,6 @@
   * [match 표현식](flow-control/match.md)
   * [break와 continue](flow-control/break-continue.md)
 * [표준 라이브러리 (standard library)](standard-library.md)
-* [Box](box.md)
+* [Box](box/README.md)
+  * [재귀자료 구조에서의 Box (Box with Recursive Data Structures)](box/box-box-with-recursive-data-structures.md)
 * [깃북 사용법 (gitbook)](gitbook.md)
