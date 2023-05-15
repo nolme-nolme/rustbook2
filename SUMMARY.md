@@ -10,4 +10,7 @@
 * [메서드 (Method)](method/README.md)
   * [메서드 수신자(Receiver)](method/receiver.md)
   * [예제](method/undefined.md)
-* [패턴 일치(Pattern Matching)](pattern-matching.md)
+* [패턴 일치(Pattern Matching)](pattern-matching/README.md)
+  * [열거형 분해 (역구조화)](pattern-matching/undefined.md)
+  * [구조체 분해 (역구조화)](pattern-matching/undefined-1.md)
+  * [배열 분해 (역구조화)](pattern-matching/undefined-2.md)

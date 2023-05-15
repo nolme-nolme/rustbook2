@@ -48,11 +48,3 @@ match rv {
 
 **\[3]**   반박 불가능 패턴(irrefutable pattern)은 항상 매칭되는 패턴이라는 뜻입니다. 여러 패턴 중 일부만 매칭되면 반박가능한 패턴(refutable pattern)이라고 합니다. 러스트 [언어 문서의 반박 항목](https://doc.rust-lang.org/book/ch18-02-refutability.html)에 자세히 나와 있습니다. 놀라운 점은 `let`도 패턴 매칭 구분이라는 점입니다. 따라서, `if let` 이나 `while let` 구문이 매우 자연스러운 문법이 됩니다.&#x20;
 
-
-
-
-
-
-
-
-
