@@ -61,7 +61,7 @@ pub const fn as_ref(&self) -> Option<&T> {
 
 러스트는 위와 같이 작은 트레이트로 구성됩니다. 트레이트가 많지만 일관된 패턴이 있으므로 계속 보면 익숙해집니다. 대신 꽤 오랜 시간 봐야 합니다.
 
-
+[러스트 언어 문서의 Deref 설명](https://rinthel.github.io/rust-lang-book-ko/ch15-02-deref.html)을 참고하세요.
 
 </details>
 
