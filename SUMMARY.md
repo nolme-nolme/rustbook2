@@ -98,3 +98,7 @@
     * [Tokio](async-basics/runtimes/tokio.md)
   * [Tasks](async-basics/tasks.md)
   * [Async Channels](async-basics/async-channels.md)
+* [Send와 Sync](send-sync/README.md)
+  * [Send](send-sync/send.md)
+  * [Sync](send-sync/sync.md)
+  * [예제 (Examples)](send-sync/examples.md)
