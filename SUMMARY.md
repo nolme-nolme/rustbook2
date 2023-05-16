@@ -106,3 +106,6 @@
   * [Mutex](shared-state/mutex.md)
   * [예제 (Example)](shared-state/example.md)
 * [깃북 사용법 (gitbook)](gitbook.md)
+* [연습문제 (동시성)](undefined-1/README.md)
+  * [식사하는 철학자들 (Dining Philosophers)](undefined-1/dining-philosophers.md)
+  * [멀티 쓰레드 링크 검사기 (Multi-Threaded Link Checker)](undefined-1/multi-threaded-link-checker.md)
