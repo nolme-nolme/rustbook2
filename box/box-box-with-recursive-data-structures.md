@@ -15,7 +15,7 @@ fn main() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>List::Cons 연결</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>List::Cons 연결</p></figcaption></figure>
 
 <details>
 
