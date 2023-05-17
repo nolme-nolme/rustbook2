@@ -75,3 +75,11 @@ create\_default() 함수의 16, 20 라인에서 Default 트레이트를 사용�
 
 `{:#?}`에서 `#?`는 예쁘게 출력하라는 플래그입니다. [`std::fmt::Debug`](https://doc.rust-lang.org/std/fmt/trait.Debug.html) 내용을 한번 읽어 보세요.
 
+<details>
+
+<summary>놀미 노트</summary>
+
+자바스크립트와 같은 동적인 언어에서 주로 제공하는 기능으로 편리한 면이 있으나 자주 사용할 기능은 아닌 듯 합니다. 다른 코드를 읽을 때 알고 있어야 하는 정도로 생각하면 되겠습니다.
+
+</details>
+
