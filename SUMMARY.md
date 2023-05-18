@@ -131,3 +131,6 @@
   * [타잎 추론 (Type Inference)](undefined-3/type-inference.md)
   * [정적 변수(static)와 상수 (const)](undefined-3/static-const.md)
   * [범위(Scope)와 쉐도잉(Shadowing)](undefined-3/scope-shadowing.md)
+* [메모리 관리 (Memory Management)](memory-management/README.md)
+  * [스택(Stack)과 힙(Heap)](memory-management/stack-heap.md)
+  * [스택 메모리 (Stack)](memory-management/stack.md)

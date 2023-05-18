@@ -53,7 +53,7 @@ fn main() {
 
 * 러스트 분석기(rust analyzer)는 추론된 타잎을 표시해줍니다. auto, var를 사용할 때 타잎을 알 수 없어 불편했던 점을 개선한 기능입니다.
 
-<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
 
 * FromIterator는 Iterator로부터 해당 타잎을 만들 수 있다는 약속입니다. HashSet, Vec 등의 컬렉션들은 모두 이들 트레이트를 구현하고 있습니다. 트레이트를 통한 약속, 이의 구현에 대해서는 나중에 더 자세히 나옵니다.
 
