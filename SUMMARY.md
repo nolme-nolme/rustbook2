@@ -126,3 +126,5 @@
   * [멀티 쓰레드 링크 검사기 (Multi-Threaded Link Checker)](undefined-1/multi-threaded-link-checker.md)
 * [깃북 사용법 (gitbook)](gitbook.md)
 * [퇴고 (Review and Rewrite)](review-and-rewrite.md)
+* [사전](undefined-2.md)
+* [변수](undefined-3.md)
