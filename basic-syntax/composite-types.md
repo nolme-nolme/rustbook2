@@ -40,3 +40,14 @@ fn main() {
   * 다른 언어에서 익숙한 `void` 개념으로 생각할 수 있습니다
 
 </details>
+
+<details>
+
+<summary>연습</summary>
+
+* [\[Rust By Example : Primitives/Tuples\]](https://doc.rust-lang.org/rust-by-example/primitives/tuples.html)를 카고로 만든 프로젝트에서 vscode나 IDE에서 직접 실행해 봅니다.
+* [\[Rust By Example : Primitives/Arraus and Slices\]](https://doc.rust-lang.org/rust-by-example/primitives/array.html)를 카고로 만든 프로젝트에서 vscode나 IDE에서 직접 실행해 봅니다.
+
+슬라이스는 처음에 낯선 부분입니다. 동일 타잎의 연속된 메모리에 대한 조각이라는 의미입니다. 배열과 거의 같으나 컴파일러가 길이를 알 수 없다는 차이가 있습니다. 뒤에서 더 다룹니다.
+
+</details>

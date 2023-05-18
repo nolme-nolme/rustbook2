@@ -44,3 +44,11 @@ fn main() {              // 프로그램 진입점입니다.
 * 러스트 자료도 매우 풍부하게 많습니다. std::fmt 같은 모듈은 검색하면 바로 러스트 문서를 찾을 수 있습니다.
 
 </details>
+
+<details>
+
+<summary>연습</summary>
+
+* [\[Rust By Example : Hello World\]](https://doc.rust-lang.org/rust-by-example/hello.html)를 카고로 만든 프로젝트에서 vscode나 IDE에서 직접 실행해 봅니다.
+
+</details>

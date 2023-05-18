@@ -127,4 +127,5 @@
 * [깃북 사용법 (gitbook)](gitbook.md)
 * [퇴고 (Review and Rewrite)](review-and-rewrite.md)
 * [사전](undefined-2.md)
-* [변수](undefined-3.md)
+* [변수](undefined-3/README.md)
+  * [타잎 추론 (Type Inference)](undefined-3/type-inference.md)

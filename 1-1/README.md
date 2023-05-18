@@ -28,3 +28,12 @@
 물론 필요에 따라 조절할 수 있습니다. 강의 중간에 쉬는시간을 넣는 것을 잊지 마세요. 매 시간 휴식을 갖는걸 추천합니다!
 
 </details>
+
+<details>
+
+<summary>놀미 노트</summary>
+
+* 소유권 이해를 목표로 러스트 문법부터 살펴봅니다. 코드를 많이 보지는 않기 때문에 추가로 연습을 하면 좋습니다. 토론으로 진행되는 강의라면 더 좋겠지만 자습으로 할 때는 더 그렇습니다.
+* [예제로 공부하는 러스트 (Rust by Example)](https://doc.rust-lang.org/rust-by-example/)은 매우 좋은 설명을 코드 예시로 합니다. [Programiz의 러스트 내용](https://www.programiz.com/rust/getting-started)도 빠르게 코드들을 보기에 좋습니다. 많은 시간을 내지 않아도 되므로 두 개를 함께 참고해도 좋습니다.
+
+</details>
