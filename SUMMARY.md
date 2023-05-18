@@ -129,3 +129,4 @@
 * [사전](undefined-2.md)
 * [변수](undefined-3/README.md)
   * [타잎 추론 (Type Inference)](undefined-3/type-inference.md)
+  * [정적 변수(static)와 상수 (const)](undefined-3/static-const.md)
