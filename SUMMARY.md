@@ -134,3 +134,5 @@
 * [메모리 관리 (Memory Management)](memory-management/README.md)
   * [스택(Stack)과 힙(Heap)](memory-management/stack-heap.md)
   * [스택 메모리 (Stack)](memory-management/stack.md)
+  * [수동 메모리 관리 (Manual Memory Management)](memory-management/manual-memory-management.md)
+  * [범위 기반 메모리 관리 (Scope-Based Memory Management)](memory-management/scope-based-memory-management.md)
