@@ -29,6 +29,12 @@ fn main() {
 * 러스트는 인자의 개수를 사전에 지정할 수 없는 상황에서 함수 [오버로딩](https://google.github.io/comprehensive-rust/ko/basic-syntax/functions-interlude.html)대신 매크로를 사용합니다.
 * **\[1]** 똑똑한 매크로(hygienic macro)는 매크로가 사용되는 스코프에서 의도치 않게 변수를 가로채지 않습니다. 사실 러스트 매크로는 완전히 hygenic 하지는 않습니다. [링크](https://veykril.github.io/tlborm/decl-macros/minutiae/hygiene.html)를 참고하세요.
 
+</details>
+
+<details>
+
+<summary>놀미 노트</summary>
+
 **\[1]** hygenic은 위생이라는 뜻으로 여기서는 외부 환경을 오염시키지 않는다는 뜻입니다. C++의 new를 매크로로 만들어서 전체 new를 바꿔본 적이 있다면 위생적이지 않은 매크로가 얼마나 막강하고 파괴적인지 알 수 있습니다. 외부 환경을 변경해야 할 필요도 있기 때문에 러스트는 두 가지 매크로 타잎을 모두 지원합니다.
 
 </details>

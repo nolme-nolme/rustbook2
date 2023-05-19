@@ -36,7 +36,7 @@ fn main() {
 
 위 코드를 이용해서, 행렬을 예쁘게 출력하는 `pretty_print`함수와, 행렬을 전치(행과 열을 서로 바꾸는)시키는 `transpose`함수를 작성해 보시기 바랍니다:
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 두 함수 모두 행렬의 크기는 3 x 3 으로 하드코딩 합니다.
 
