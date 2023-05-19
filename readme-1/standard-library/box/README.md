@@ -17,7 +17,7 @@ fn main() {
 
 `Box<T>`는 `Deref<Target = T>`를 구현합니다. 이는 `Box<T>`에서 `T` 메서드를 직접 호출할 수 있다는 의미입니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Box의 메모리 참조</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Box의 메모리 참조</p></figcaption></figure>
 
 <details>
 

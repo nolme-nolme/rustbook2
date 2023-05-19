@@ -40,7 +40,7 @@ fn main() {
 
 pets를 할당한 후의 메모리 배치는 다음과 같습니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 값이 어떤 구체적인 유형인지 불투명하기 때문에 트레이트 객체는 동적인 크기를 갖는    타잎입니다. 모든 동적인 크기를 갖는 타잎처럼 포인터를 통해서 사용해야 하고, 대표적인 예가 `&dyn SomeTrait`, `Box<dyn SomeTrait>`입니다.
 

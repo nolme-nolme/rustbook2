@@ -27,7 +27,7 @@ fn main() {
 
 러스트의 프로젝트 구조화는 Cargo.toml에 해당하는 패키지, 각 패키지의 빌드 단위인 바이너리와 라이브러리 크레이트(crate), 모듈로 구성됩니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>패키지 구조의 예시</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>패키지 구조의 예시</p></figcaption></figure>
 
 [카고의 패키지 문서](https://doc.rust-lang.org/cargo/guide/project-layout.html)를 보면 자세한 설명이 있습니다.&#x20;
 
