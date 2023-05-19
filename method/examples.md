@@ -98,6 +98,6 @@ note: this function takes ownership of the receiver `self`, which moves `race`
 
 <!---->
 
-* race.finish()를 호출하면 race의 할당에 해당하는 수신자(receiver)를 finish()가 가지므로 이동됩니다. 그리고, finish()가 종료될 때 race는 Drop 됩니다. 러스트의 메서들은 수신자가 있고 impl 블럭이 타잎 (구조체나 enum)으로 구분되는 글로벌 함수처럼 동작한다고 생각할 수 있습니다. 클래스처럼 생각하면 self에 할당되면서 이동된다는 개념이 성립하기 어렵기 때문입니다.
+* race.finish()를 호출하면 race의 할당에 해당하는 수신자(receiver)를 finish()가 가지므로 이동됩니다. 그리고, finish()가 종료될 때 race는 Drop 됩니다. 러스트의 메서드들은 수신자가 있고 impl 블럭이 타잎 (구조체나 enum)으로 구분되는 글로벌 함수처럼 동작한다고 생각할 수 있습니다. 클래스처럼 생각하면 self에 할당되면서 이동된다는 개념이 성립하기 어렵기 때문입니다.
 
 </details>
