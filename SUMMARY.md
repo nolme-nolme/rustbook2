@@ -48,7 +48,7 @@
       * [Modern C++에서 이중해제 문제](ownership/double-free-modern-cpp.md)
     * [함수 호출에서 이동](ownership/move-in-function-call.md)
     * [복사(Copy)와 복제(Clone)](ownership/copy-clone.md)
-    * [빌림](ownership/borrowing.md)
+    * [빌림 (Borrowing)](ownership/borrowing.md)
       * [공유와 고유 빌림](ownership/shared-unique-borrow.md)
     * [수명](ownership/lifetime.md)
     * [함수 호출에서의 수명](ownership/lifetime-in-function-call.md)
